@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Yashvashistha24
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Devops
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me https://www.linkedin.com/in/yash-vashistha-aa0734192/
 
 <!---
