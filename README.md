@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yashvashistha24
+- 👋 Hi, I’m @Yashvashistha
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Devops
 - 📫 How to reach me https://www.linkedin.com/in/yash-vashistha-aa0734192/
